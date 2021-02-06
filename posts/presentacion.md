@@ -1,1 +1,1 @@
-## Te presentamos al equipo de Elemental Hacking Team
+## Te presentamos a los mimebros del Elemental Hacking Team
