@@ -2,4 +2,4 @@
 
 ### Carlos Castro, M.I.
 
-![](./carlos.jpg)
+![](./images/carlos.jpg)
