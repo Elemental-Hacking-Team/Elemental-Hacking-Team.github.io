@@ -1,24 +1,24 @@
-## Introducción
+# Introducción
 
 Este en un pequeño espacio en crecimiento usando [Github Pages](https://pages.github.com/) donde colocaremos información del equipo, tutoriales, explicaciones de proyectos, etc.
 
 El Elemental Hacking Team (EHT) es una iniciativa de egresados de la universidad Autónoma de Baja California interesados en la programación aplicada de forma interdisciplinaria.
 
-# Nuestro objetivos son:
+### Nuestro objetivos son:
 
 * Participar en hackathones virtuales y presenciales a lo largo del año
 * Compartir nuestros conocimientos de programación a estudiantes de cualquier carrera
 * Elaborar proyectos propios que sean de utilidad para la sociedad
 * Crear una comunidad de habla hispana que gire alrededor de la programación y sus alcances
 
-## Miembros del equipo
+# Miembros del equipo
 
 * [Fundadores del EHT](./posts/presentacion.md)
 * [Hackers del EHT](./posts/hackers.md) **Próximamente**
 
-## Tutoriales
+# Tutoriales
 
-# Guías de configuración
+### Guías de configuración
 
 * [Software que utilizamos](./posts/softwareutilizado.md) **Próximamente**
 
