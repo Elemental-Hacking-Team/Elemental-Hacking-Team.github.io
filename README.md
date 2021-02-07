@@ -1,13 +1,27 @@
 ## Introducción
 
-Este en un pequeño espacio en crecimiento usando [Github Pages](https://pages.github.com/) para presentar información de interés para los miembros del equipo.
+Este en un pequeño espacio en crecimiento usando [Github Pages](https://pages.github.com/) donde colocaremos información del equipo, tutoriales, explicaciones de proyectos, etc.
 
-Este texto se puede ver tanto en la página de Github como en Github pages en los enlaces siguientes:
+El Elemental Hacking Team (EHT) es una iniciativa de egresados de la universidad Autónoma de Baja California interesados en la programación aplicada de forma interdisciplinaria.
 
-* [Liga para el repositorio de Github de esta página](https://github.com/Elemental-Hacking-Team/Elemental-Hacking-Team.github.io)
-* [liga para esta página de Github Pages](https://https://elemental-hacking-team.github.io)
+# Nuestro objetivos son:
 
+* Participar en hackathones virtuales y presenciales a lo largo del año
+* Compartir nuestros conocimientos de programación a estudiantes de cualquier carrera
+* Elaborar proyectos propios que sean de utilidad para la sociedad
+* Crear una comunidad de habla hispana que gire alrededor de la programación y sus alcances
 
 ## Miembros del equipo
 
-* [Presentación del equipo](./posts/presentacion.md)
+* [Fundadores del EHT](./posts/presentacion.md)
+* [Hackers del EHT](./posts/hackers.md) **Próximamente**
+
+## Tutoriales
+
+# Guías de configuración
+
+* [Software que utilizamos](./posts/softwareutilizado.md) **Próximamente**
+
+
+Si eres estudiante y tienes interés de aprender y reforzar tus conocimientos de programación puedes mandar tu solicitud para ser un hacker en el EHT mediante este [formulario](www.formulario.com).
+Además, si te interesa puedes ver el [repositorio de Github de esta página](https://github.com/Elemental-Hacking-Team/Elemental-Hacking-Team.github.io).
