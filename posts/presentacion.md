@@ -1,1 +1,5 @@
-## Te presentamos a los mimebros del Elemental Hacking Team
+# Te presentamos a los mimebros del Elemental Hacking Team
+
+### Carlos Castro, M.I.
+
+![](./carlos.jpg)
