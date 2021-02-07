@@ -4,7 +4,7 @@
 
 ![](./images/carlos.JPG)
 
-Carlos Castro es bioingeniero y maestro en ingeniería por parte de la UABC y actualmente se encuentra estudiando el doctorado en la misma instituación. Aunque al principio la programación era lo que menos le gustaba, terminó especializándose en ello. Primero con Matlab, luego con R y ahora con Python como su principal lenguaje de programación, Carlos se dedica al uso de ténicas de inteligencia artificial para trabajar problemas del área médica y bológica. 
+Carlos Castro es bioingeniero y maestro en ingeniería por parte de la UABC y actualmente se encuentra estudiando el doctorado en la misma institución. Aunque al principio la programación era lo que menos le gustaba, terminó especializándose en ello. Primero con Matlab, luego con R y ahora con Python como su principal lenguaje de programación, Carlos se dedica al uso de ténicas de inteligencia artificial para trabajar problemas del área médica y bológica. 
 
 Una de sus mejores experiencias fue como jefe de tecnología en una startup donde gestionaba proyectos como automatización y uso de sensores con Raspberry, desarrollo de aplicaciones, asistentes virtuales, y análisis de datos. En general, le gusta incursionar y aprender los alcances que puede tener la programación en cualquier área donde ésta sea aplicable, y según sus palabras, la programación se puede aplicar en cualquier contexto.
 
