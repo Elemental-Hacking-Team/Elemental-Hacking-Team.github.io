@@ -10,4 +10,4 @@ Una de sus mejores experiencias fue como jefe de tecnología en una startup dond
 
 Él sabe que el mundo de la programación puede ser abrumador al principio, no lo digan que dije esto, pero él odiaba la programación cuando recién entró a la universidad. Así que ahora quiere ayudar a estudiantes a que su camino de aprendizaje en la programación sea más entretenido.
 
-Entre sus pasatiempos favoritos se encuentran jugar videojuegos, leer, los juegos de mesa, la música y volver a ver series de comedia una y otra vez. "Nunca se es demasiado viejo para aprender e intentar cosas nuevas".
+Entre sus pasatiempos favoritos se encuentran leer, jugar videojuegos, juegos de mesa, la música y volver a ver series de comedia una y otra vez. "Nunca se es demasiado viejo para aprender e intentar cosas nuevas".
