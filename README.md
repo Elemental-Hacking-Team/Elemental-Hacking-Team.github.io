@@ -10,6 +10,7 @@ El Elemental Hacking Team (EHT) es una iniciativa de egresados de la universidad
 * Participar en hackathones virtuales y presenciales a lo largo del año
 * Compartir nuestros conocimientos de programación a estudiantes de cualquier carrera
 * Elaborar proyectos propios que sean de utilidad para la sociedad
+* Promover el reforzamiento del idioma inglés
 
 
 # Miembros del equipo
