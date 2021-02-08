@@ -2,7 +2,7 @@
 
 * Carlos Castro, M.I.
 
-![](images/carlos.JPG)
+![](/images/carlos.JPG)
 
 Carlos Castro es bioingeniero y maestro en ingeniería por parte de la UABC y actualmente se encuentra estudiando el doctorado en la misma institución. Aunque al principio la programación era lo que menos le gustaba, terminó especializándose en ello. Primero con Matlab, luego con R y ahora con Python como su principal lenguaje de programación, Carlos se dedica al uso de ténicas de inteligencia artificial para trabajar problemas del área médica y bológica. 
 
