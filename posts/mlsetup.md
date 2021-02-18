@@ -2,7 +2,7 @@
 
 Anaconda es un ambiente de programación especializado en el uso científico de Python. Es gratis para uso personal y muy fácil de instalar y utilizar.
 
-Puedes instalarlo desde ésta [página](https://www.anaconda.com/products/individual "Anaconda"). Después de elegir la versión para tu sistema operativo, se ejecuta el instalador y listo. 
+Puedes instalarlo desde esta [página](https://www.anaconda.com/products/individual "Anaconda"). Después de elegir la versión para tu sistema operativo, se ejecuta el instalador y listo. 
 
 Este ambiente contiene varias cosas pero las principales son:
 
