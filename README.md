@@ -18,7 +18,7 @@ El Elemental Hacking Team (EHT) es una iniciativa de egresados de la universidad
 Si quieres conocer un poco a los miembros del equipo, puede encontrar información en los siguientes enlaces: 
 
 * [Fundadores del EHT](./posts/presentacion.md)
-* [Hackers del EHT](./posts/hackers.md) 
+* [Hackers del EHT](./posts/hackers.md) **Próximamente**
  
  
 # Tutoriales
@@ -28,7 +28,7 @@ En esta sección se pueden encontrar diversas guías de interés.
   
 ### Guías de configuración
 
-* [Software que utilizamos](./posts/softwareutilizado.md) **Próximamente**
+* [Software que utilizamos](./posts/softwareutilizado.md) 
 * [Instalación de ambiente para machine learning](./posts/mlsetup.md) 
  
  
