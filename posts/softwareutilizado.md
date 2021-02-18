@@ -2,7 +2,7 @@ En el mundo de la programación en Python existen numerosas opciones de IDLE (In
 
 # Python 3.x
 
-
+Para instalar Python en su versión más nueva deebes visitar este [sitio](https://www.python.org/downloads/)
 
 
 
