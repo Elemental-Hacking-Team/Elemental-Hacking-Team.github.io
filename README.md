@@ -29,7 +29,7 @@ En esta sección se pueden encontrar diversas guías de interés.
 ### Guías de configuración
 
 * [Software que utilizamos](./posts/softwareutilizado.md) **Próximamente**
-* [Instalación de ambiente para machine learning](./posts/mlsetup.md) **Próximamente**
+* [Instalación de ambiente para machine learning](./posts/mlsetup.md) 
  
  
 # Únete a nuestro equipo!
