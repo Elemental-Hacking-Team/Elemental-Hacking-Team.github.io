@@ -8,4 +8,4 @@ Para instalar Python en su versión más nueva deebes visitar este [sitio](https
 
 
 ## Para la instalación del entorno relacionado a machine learning
-[Instalación de ambiente para machine learning](Elemental-Haking-Team.github.io/posts/mlsetup.md)
+[Instalación de ambiente para machine learning](Elemental-Hakcing-Team.github.io/posts/mlsetup.md)
