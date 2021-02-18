@@ -18,7 +18,7 @@ El Elemental Hacking Team (EHT) es una iniciativa de egresados de la universidad
 Si quieres conocer un poco a los miembros del equipo, puede encontrar información en los siguientes enlaces: 
 
 * [Fundadores del EHT](./posts/presentacion.md)
-* [Hackers del EHT](./posts/hackers.md) **Próximamente**
+* [Hackers del EHT](./posts/hackers.md) 
  
  
 # Tutoriales
