@@ -26,4 +26,5 @@ Después de instalar Atom, debemos instalar teletype:
 - file-icons: Asigna íconos a los diferentes tipos de archivos (asi se identifica por ejemplo un archivo .py con el ícono de python)
 - python-autopep8: Le da formato al código de acuerdo al estilo [PEP8](https://www.python.org/dev/peps/pep-0008/)
 - autocomplete-python: Autocompleta con palabras claves de python
+- -kite: Permite ver documentación al programar
 - linter: Alerta de errores en el código
