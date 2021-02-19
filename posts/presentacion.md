@@ -25,7 +25,7 @@ Paradojicamente, su primer trabajo formal tras egresar de la carrera fue precisa
 
 Tras un replanteo, se dio cuenta que todas esas áreas de la carrera que tanto le gustaban, aunque podrían parecer muy diversos entre sí, tenían en común que se utilizaba algo de programación en ello, y que desde el enfoque de programación siempre se sentía más cómodo. Así que, ¿por qué no aprovechar el potencial que tiene la programacion para integrarse a diversidas aplicaciones? Fue ahí que Jhordan entendió lo que antes no había podido: la programación se puede aplicar a practicamente cualquier area, no hay limites, y siempre habrá algo que aprender y algo que aportar.
 
-Él cree que la programacion puede ser abrumadora si no se aborda de la manera correcta desde un inicio. Por ello, su mision está en generar los recursos didacticos y la mentoria para que otras personas puedan aprender y experimentar en el mundo de la programacion, siempre tratando de impulsar la motivacion en otros para que lo intenten.
+Él cree que la programacion puede ser abrumadora si no se aborda de la manera correcta desde un inicio. Por ello, su mision está en generar los recursos didacticos y la mentoría para que otras personas puedan aprender y experimentar en el mundo de la programación, siempre tratando de impulsar la motivación en otros para que lo intenten.
 
 En su tiempo libre se dedica a jugar videojuegos (principalmente Switch), dibujar, aprender idiomas, pasear en bici y correr.
 
