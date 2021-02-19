@@ -14,8 +14,7 @@ Entre sus pasatiempos favoritos se encuentran leer, jugar videojuegos, juegos de
 
 ## Jhordan Ojeda
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eget tempus felis. Duis eleifend ultrices sollicitudin. Ut in quam sed odio viverra egestas. Nunc ac facilisis leo. Nam quis nulla at felis tempor tempor ac sed ante. Maecenas sed sodales elit, vel pulvinar augue. Suspendisse eu dignissim sapien, non varius arcu. Vivamus augue nibh, sagittis congue viverra ac, faucibus vel orci. Vestibulum porta malesuada ultrices. Donec nec pulvinar nibh. Fusce ultricies placerat consequat. Praesent ultricies neque porta dictum cursus. Ut eget facilisis tortor, eget ultricies lacus. Nam at molestie ligula. Etiam iaculis lorem vitae metus pellentesque, quis consectetur quam varius.
+Jhordan Ojeda egreso como bioingeniero en 2018 y actualmente tiene un puesto temporal como ingeniero de calidad.
 
 
 ## Erick Espinoza
