@@ -34,5 +34,5 @@ En esta sección se pueden encontrar diversas guías de interés.
  
 # Únete a nuestro equipo!
 
-Si eres estudiante y tienes interés de aprender y reforzar tus conocimientos de programación puedes mandar tu solicitud para ser un hacker en el EHT mediante este [formulario](https://forms.gle/p5tNzqUeu2MXfvcR8).
+Si tienes interés de aprender y reforzar tus conocimientos de programación puedes mandar tu solicitud para ser un hacker en el EHT y ser parte de esta comunidad en crecimiento mediante este [formulario](https://forms.gle/p5tNzqUeu2MXfvcR8).
 Además, si te interesa puedes ver el [repositorio de Github de esta página](https://github.com/Elemental-Hacking-Team/Elemental-Hacking-Team.github.io).
